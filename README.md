@@ -7,4 +7,4 @@ Note taking app
 * React Bootstrap
 * React Router v6
 
-### Live - [Notes]()
+### Live - [Notes](https://webtakenote.netlify.app)
